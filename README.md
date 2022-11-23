@@ -3,7 +3,7 @@ Implements the functioning of Connect Four that performs all functions in the ta
 ## Features
 
 
-![App Screenshot](https://github.com/XiaoSanchez/Java_Game-Connect_Four/blob/main/img/ScreenShot.png)
+![App Screenshot](https://github.com/XiaoSanchez/Java_Game-Connect_Four/blob/main/img/ScreenShot.jpeg)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
